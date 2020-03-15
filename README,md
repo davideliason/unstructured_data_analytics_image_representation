@@ -4,3 +4,10 @@
 ### Description
 Using Python to manipulate images
 and perorm data analytic techniques on them
+
+### Steps
+Import Image Python library
+Import image
+Crop image
+Resize image
+Rotate image
